@@ -1,18 +1,20 @@
-## Your Name
+## Sameera Sood
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-
+I am an energetic Full Stack Junior Developer, backed with 6 years of experience in copywriting and technical writing, and another 6 years of stay at home parenting. I am looking for a role where I can extend my technical skills and implement my knowledge gained from past experience.
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Subscription Watch** | A webapp to make a list of your subscriptions and amount you pay in total. | Ruby              |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Teach a Brand to Fish** (July 2015 to June 2016)  
+_Copywriter_
+
+**Wac Arts** (July 2014 to July 2015)  
+_Copywriter_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
